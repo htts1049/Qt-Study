@@ -1,1 +1,6 @@
+# files
+*.user
+
+
+# directories
 build/
