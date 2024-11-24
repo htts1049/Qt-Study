@@ -80,6 +80,9 @@
     <property name="text">
      <string/>
     </property>
+    <property name="pixmap">
+     <pixmap>C:/Users/Administrator/pic1.jpg</pixmap>
+    </property>
    </widget>
   </widget>
   <widget class="QMenuBar" name="menubar">
